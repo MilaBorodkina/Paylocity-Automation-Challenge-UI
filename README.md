@@ -2,13 +2,13 @@
 
 This project contains automated tests for verifying the functionality of the Paylocity web application using Playwright on JavaScript.
 
-## Requirements
+## Requirements:
 
 Before you begin, ensure you have met the following requirements:
 
 - Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/)
 
-## Getting Started
+## Getting Started:
 
 Clone the repository:
 
